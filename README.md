@@ -11,26 +11,26 @@ This project aims to analyze hospital data using Excel and Power BI, focusing on
 
 
 # Power BI Questions:
-What is the distribution of bed occupancy across different hospital units?
-How do diagnosis types vary in frequency?
-What is the trend between billing amounts and health insurance claims?
-Which doctors received the highest volume of feedback?
-What are the key discharge and follow-up patterns?
+1. What is the distribution of bed occupancy across different hospital units?
+2. How do diagnosis types vary in frequency?
+3. What is the trend between billing amounts and health insurance claims?
+4. Which doctors received the highest volume of feedback?
+5. What are the key discharge and follow-up patterns?
 
 ## Process of the Project
-Data Collection & Cleaning : Imported hospital dataset from Excel.Cleaned missing values and formatted data for analysis.
-Data Analysis & Visualization : Built interactive dashboards in Power BI.Created charts, graphs, and KPIs to visualize trends.Used DAX calculations for deeper insights.
+1. Data Collection & Cleaning : Imported hospital dataset from Excel.Cleaned missing values and formatted data for analysis.
+2. Data Analysis & Visualization : Built interactive dashboards in Power BI.Created charts, graphs, and KPIs to visualize trends.Used DAX calculations for deeper insights.
 
 ## Project Insights
-Bed Occupancy: Private wards have the highest occupancy.
-Diagnosis Trends: Fractures and viral infections are common cases.
-Billing vs. Insurance: There is a correlation between billing amounts and insurance claims, with pneumonia having lower coverage.
-Doctor Feedback: All doctors received uniform feedback volumes (~1.02K each).
+1. Bed Occupancy: Private wards have the highest occupancy.
+2. Diagnosis Trends: Fractures and viral infections are common cases.
+3. Billing vs. Insurance: There is a correlation between billing amounts and insurance claims, with pneumonia having lower coverage.
+4. Doctor Feedback: All doctors received uniform feedback volumes (~1.02K each).
 
 ## Learning Experience
-Hands-on experience with Power BI dashboards and DAX functions.
-Improved data cleaning, visualization, and analytical skills.
-Gained insights into healthcare data analytics and business intelligence.
+1. Hands-on experience with Power BI dashboards and DAX functions.
+2. Improved data cleaning, visualization, and analytical skills.
+3. Gained insights into healthcare data analytics and business intelligence.
 
 ## Project Conclusion
 This analysis highlights key hospital operational metrics, helping in resource allocation, financial planning, and patient care improvement. The dashboard serves as a real-time decision-making tool for healthcare management.
